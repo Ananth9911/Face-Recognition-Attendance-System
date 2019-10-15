@@ -511,17 +511,6 @@ quitWindow.place(x=1000, y=550)
 window.mainloop()
 
 
-# In[48]:
-
-
-import numpy as np
-a=[[ 5, 1 ,3], [ 1, 1 ,1],[ 1, 2 ,1]]
-b=[1, 2, 3]
-c=np.dot(a,b,axis=1)
-print(c)
-
-
-# In[ ]:
 
 
 
